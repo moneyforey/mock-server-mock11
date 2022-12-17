@@ -18,7 +18,7 @@
 }
   ],
   "jobs":[
-    [
+    
       {
         "id":1,
         "company": "Ellette",
@@ -43,6 +43,6 @@
         "position": "Junior Frontend Developer",
         "language": "Java"
       }
-    ]
+    
   ]
 }
