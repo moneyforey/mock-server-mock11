@@ -44,5 +44,26 @@
         "language": "Java"
       }
     
+  ],
+
+  "notes":[
+    {
+      "id":1,
+      "Title":"React",
+      "Description":"Hello these are react app",
+      "Date":"22-12-2022"
+    },
+    {
+      "id":2,
+      "Title":"Redux",
+      "Description":"Hello these are react app",
+      "Date":"22-12-2022"
+    },
+    {
+      "id":3,
+      "Title":"MongoDB",
+      "Description":"Hello these are react app",
+      "Date":"22-12-2022"
+    }
   ]
 }
